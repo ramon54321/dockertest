@@ -1,0 +1,12 @@
+sudo: required
+
+language: javascript
+
+install:
+  - echo "Installing nothing."
+
+script:
+  - echo "No scripts."
+
+after_success:
+  - echo "Ramon build completed, this is after successful build."
