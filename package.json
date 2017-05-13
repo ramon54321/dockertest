@@ -1,0 +1,12 @@
+{
+  "name": "dockertest",
+  "version": "1.0.0",
+  "description": "The first test of docker deployment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "node index.js"
+  },
+  "author": "Ramon Brand",
+  "license": "MIT"
+}
